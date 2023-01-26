@@ -1,6 +1,6 @@
 # kyblOS
 distributed by **kybl enterprise**
- - OpenAI + denyyys creating an operating system
+ - creating an 'useless' operating system
  - references to gravity bong 
  
  
